@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
-# Name: Adithya V
-# Register no: 212223110001
+# NAME: Adithya V
+# REG NO: 212223110001
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
